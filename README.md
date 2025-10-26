@@ -59,5 +59,15 @@ I'm eager to collaborate on exciting projects, contribute to open-source, and le
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/SathishNallakukkala01)
 
 ---
+<!-- 🧩 GitHub Stats Section -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SathishNallakukkala01&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8" height="180" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=SathishNallakukkala01&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=8" height="180" alt="GitHub streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathishNallakukkala01&layout=compact&theme=tokyonight&hide_border=false&border_radius=8" height="180" alt="Top Languages" />
+</p>
+
+----
 *“Code is like humor. When you have to explain it, it’s bad.”*
