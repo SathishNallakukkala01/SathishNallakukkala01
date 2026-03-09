@@ -7,6 +7,21 @@ I'm an enthusiastic and dedicated developer, passionate about building efficient
 ---
 
 ### 👨‍💻 **Tech Stack & Skills**
+<!-- Frontend -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react&perline=8" />
+</p>
+
+<!-- Backend -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql&perline=8" />
+</p>
+
+<!-- Tools & Others -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,idea,eclipse,maven,postman&perline=8" />
+</p>
+
 
 - **Backend:** Java, Spring Boot, Hibernate, RESTful APIs  
 - **Frontend:** HTML5, CSS3, JavaScript, React.js  
@@ -61,13 +76,18 @@ I'm eager to collaborate on exciting projects, contribute to open-source, and le
 ---
 <!-- 🧩 GitHub Stats Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SathishNallakukkala01&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8" height="180" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=SathishNallakukkala01&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=8" height="180" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathishNallakukkala01&layout=compact&theme=tokyonight&hide_border=false&border_radius=8" height="180" alt="Top Languages" />
-</p>
+---
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 ----
 *“Code is like humor. When you have to explain it, it’s bad.”*
